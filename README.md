@@ -1,1 +1,3 @@
-#Wild-php
+#Wild-project
+
+Comment installer ce projet?
